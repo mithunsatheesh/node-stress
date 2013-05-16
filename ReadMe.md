@@ -8,8 +8,22 @@ Light weight Node.js module to apply specified load on a REST API and retrieve t
     npm install node-stress
 
 
-
 ## Usage
+
+``` js
+var stress = require("./node-stress");
+
+stress({
+			
+		host: url, //strip off the starting http:// same as in case of node http request
+		port: port,
+		path: path
+		
+		
+	},RequestCount,callback);
+```
+
+## Example
 
 ``` js
 var stress = require("./node-stress");
