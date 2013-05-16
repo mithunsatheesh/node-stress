@@ -65,4 +65,9 @@ stress({
 `RequestCount` - the load to be applied in number (eg:1000)
 
 
+## Credits
+
+The code used is inspired and based on [this article](https://hacks.mozilla.org/2013/01/building-a-node-js-server-that-wont-melt-a-node-js-holiday-season-part-5/) on [hacks.mozilla.org](https://hacks.mozilla.org/).
+
+
 
