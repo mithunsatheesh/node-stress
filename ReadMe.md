@@ -42,11 +42,13 @@ stress({
 
 ## Parameters
 
-host - the url of the REST API after stripping down the starting http://. For more info check the input parameter for the node sample [http request](http://nodejs.org/api/http.html#http_http_request_options_callback).
-port - port at which the REST API runs
-path - path to the page we are sending request
+`host` - the url of the REST API after stripping down the starting http://. For more info check the input parameter for the node sample [http request](http://nodejs.org/api/http.html#http_http_request_options_callback).
 
-RequestCount - the load to be applied in number (eg:1000)
+`port` - port at which the REST API runs
+
+`path` - path to the page we are sending request
+
+`RequestCount` - the load to be applied in number (eg:1000)
 
 
 
