@@ -1,0 +1,17 @@
+{
+  "name": "node-stress",
+  "description": "apply specific load to a REST API and obtain the statitics",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mithun Satheesh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mithunsatheesh/node-stress.git"
+  },
+  "main": "index.js",
+	"license": {
+		"type": "MIT"
+	},
+	"dependencies": {}  
+}
