@@ -11,7 +11,7 @@ Light weight Node.js module to apply specified load on a REST API and retrieve t
 ## Usage
 
 ``` js
-var stress = require("./node-stress");
+var stress = require("node-stress");
 
 stress({
 			
@@ -26,7 +26,7 @@ stress({
 ## Example
 
 ``` js
-var stress = require("./node-stress");
+var stress = require("node-stress");
 
 stress({
 			
